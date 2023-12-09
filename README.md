@@ -14,5 +14,5 @@ Projeto construído atavés do site Frontend Mentor.
 
 ## Contato
 
-Email: vitorianfsantos@gmail.com
+Email: vitoriafonseca.net@gmail.com
 Tel: +351 925118084
