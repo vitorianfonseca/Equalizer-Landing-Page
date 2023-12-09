@@ -4,7 +4,7 @@
 
 Projeto construído atavés do site Frontend Mentor.
 
-[Clique aqui para acessar](https://aluraplay-git-main-vitorianfonseca.vercel.app/)
+[Clique aqui para acessar](equalizer-landing-page-henna.vercel.app)
 
 ## Tecnologias
 
