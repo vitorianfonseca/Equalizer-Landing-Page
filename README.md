@@ -4,7 +4,7 @@
 
 Projeto construído atavés do site Frontend Mentor.
 
-[Clique aqui para acessar](https://equalizer-landing-page-henna.vercel.app/)
+[Clique aqui para acessar](https://equalizer-landing-page-ashen.vercel.app/)
 
 ## Tecnologias
 
