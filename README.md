@@ -1,6 +1,6 @@
 # Equalizer-Landing-Page
 
-![Captura de Ecrã (48)](![A056E0D9-CF33-46FB-965A-B344C8E9CBCF](https://github.com/vitorianfonseca/Equalizer-Landing-Page/assets/113269524/e02ce0e5-341d-4587-abdc-b871176e03ce))
+![A056E0D9-CF33-46FB-965A-B344C8E9CBCF](https://github.com/vitorianfonseca/Equalizer-Landing-Page/assets/113269524/ec4c09f9-975c-4c70-9b38-4a0ed639fefe)
 
 Projeto construído atavés do site Frontend Mentor.
 
