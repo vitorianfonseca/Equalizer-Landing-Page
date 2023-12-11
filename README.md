@@ -1,6 +1,7 @@
 # Equalizer Landing Page
 
-![A056E0D9-CF33-46FB-965A-B344C8E9CBCF](https://github.com/vitorianfonseca/Equalizer-Landing-Page/assets/113269524/ec4c09f9-975c-4c70-9b38-4a0ed639fefe)
+![MacBook Pro-1702256374932](https://github.com/vitorianfonseca/Equalizer-Landing-Page/assets/113269524/457e9476-b7b6-4594-9e96-0a4babac413a)
+
 
 Projeto construído atavés do site Frontend Mentor.
 
